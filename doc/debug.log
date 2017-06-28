@@ -1,0 +1,6 @@
+[0628/185940.841:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Odmowa dostêpu. (0x5)
+[0628/185940.847:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Potok zosta³ zakoñczony. (0x6D)
+[0628/185940.849:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Odmowa dostêpu. (0x5)
+[0628/190001.265:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Odmowa dostêpu. (0x5)
+[0628/190001.272:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Potok zosta³ zakoñczony. (0x6D)
+[0628/190001.274:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files (x86)\Google\Chrome\settings.dat: Odmowa dostêpu. (0x5)
